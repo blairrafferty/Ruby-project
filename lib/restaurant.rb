@@ -62,4 +62,6 @@ class Restaurant
     end
     return true
   end
+
+  test
 end
